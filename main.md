@@ -397,7 +397,7 @@ Logistic
 
 基于对垃圾分类算法的研究，我们构建了在线垃圾短信检测系统，地址为[http://nd-fe.zale.site](http://nd-fe.zale.site) 。由于$\chi^2$统计量+Gradient Boosting模型收敛快，占用空间小，为最终线上使用的模型。检测场景如下：
 ![](./images/res_pos.png){#fig:pos width=300px}
-![](./images/res_neg.png){#fig:neg width=300px}
+![](./images/res_neg.png){#fig:neg width=285px}
 
 \newpage
 
