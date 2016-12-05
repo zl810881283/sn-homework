@@ -399,6 +399,8 @@ Logistic
 ![](./images/res_pos.png){#fig:pos width=300px}
 ![](./images/res_neg.png){#fig:neg width=300px}
 
+\newpage
+
 ### 小组成员分工
 
 |成员|工作|
