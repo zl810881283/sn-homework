@@ -1,0 +1,9 @@
+\documentclass{article}
+\usepackage{xeCJK}%根据自己的需要加载宏包。
+\setmainfont{宋体}%
+
+\begin{document}
+
+使用xelatex，处理中文不再困难。就是编译起来慢了点。
+$body$
+\end{document} 
